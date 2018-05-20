@@ -25,8 +25,7 @@ SECRET_KEY = 'yov$x(^&w5q89oljmkxa(5om77%*ql0$4)th$i9u!m=h!@onj9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',
-                'artidoc.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'artidoc.pythonanywhere.com']
 
 
 # Application definition
